@@ -1,0 +1,18 @@
+{
+    "first_name": "Shabarish",
+    "last_name": "K",
+    "email": "shabarish@example.com",
+    "gender": "Male",
+    "mobile": "9876543210",
+    "dob_day": "15",
+    "dob_month": "May",
+    "dob_year": "2005",
+    "subjects": [
+        "Maths"
+    ],
+    "hobbies": [
+        "Sports",
+        "Reading"
+    ],
+    "address": "Hyderabad"
+}
