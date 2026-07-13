@@ -1,0 +1,13 @@
+React App Structure
+
+src/
+  components/
+    CommandBar.jsx
+    ActivityLog.jsx
+    ProfileSettings.jsx
+  pages/
+    Dashboard.jsx
+    Settings.jsx
+  hooks/
+    useWebSocket.js
+  App.jsx
